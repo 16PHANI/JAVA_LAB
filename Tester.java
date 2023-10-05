@@ -22,7 +22,7 @@ public class Tester
 }
 
 
-//this code is used in Tester.java for performing Arthemitic operations.so save it as Utility.java in seperate file 
+//this code is used in Tester.java for performing Arithemitic operations.so save it as Utility.java in seperate file 
 public class Utility
 {
     public static int  addNumbers(int n1,int n2)
